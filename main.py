@@ -26,7 +26,6 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
 
 print("Rock, Paper, Scissors")
 
